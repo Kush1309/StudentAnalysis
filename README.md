@@ -71,7 +71,7 @@ Previous Exam Score: 72
 ## 📈 Sample Output
 
 ```
-Predicted Exam Score: 81.4
+Predicted Exam Score: 84.4
 ```
 
 ---
@@ -121,4 +121,4 @@ This project is open-source and available for educational use.
 ### ⭐ If you like this project, don’t forget to give it a star on GitHub!
 
 
-BY KUSHAGRA SAXENA
+BY KUSHAGRA SAXENA 
