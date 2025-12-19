@@ -101,6 +101,7 @@ Predicted Exam Score: 84.4
 
 * Add more features (sleep hours, assignments, mock tests)
 * Improve accuracy using advanced models
+* add ui
 * Create a GUI or Web App (Flask / Streamlit)
 * Deploy the model online 
 
