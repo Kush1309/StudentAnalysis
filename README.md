@@ -101,14 +101,15 @@ Predicted Exam Score: 84.4
 
 * Add more features (sleep hours, assignments, mock tests)
 * Improve accuracy using advanced models
+* add ui
 * Create a GUI or Web App (Flask / Streamlit)
-* Deploy the model online
+* Deploy the model online 
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
+Contributions are welcome!!!!! Feel free to fork the repository and submit pull requests.
 
 ---
 
@@ -119,6 +120,7 @@ This project is open-source and available for educational use.
 ---
 
 ### ⭐ If you like this project, don’t forget to give it a star on GitHub!
+### good morning
 
 
 BY KUSHAGRA SAXENA 
